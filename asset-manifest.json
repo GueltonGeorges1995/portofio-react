@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portofio-react/static/css/main.00b04eba.chunk.css",
+    "main.js": "/portofio-react/static/js/main.80ce77b0.chunk.js",
+    "main.js.map": "/portofio-react/static/js/main.80ce77b0.chunk.js.map",
+    "runtime~main.js": "/portofio-react/static/js/runtime~main.a13b7c29.js",
+    "runtime~main.js.map": "/portofio-react/static/js/runtime~main.a13b7c29.js.map",
+    "static/css/2.2e7eb412.chunk.css": "/portofio-react/static/css/2.2e7eb412.chunk.css",
+    "static/js/2.00ff6c8d.chunk.js": "/portofio-react/static/js/2.00ff6c8d.chunk.js",
+    "static/js/2.00ff6c8d.chunk.js.map": "/portofio-react/static/js/2.00ff6c8d.chunk.js.map",
+    "index.html": "/portofio-react/index.html",
+    "precache-manifest.75d7c815e440ac5c2587ca94c469e4db.js": "/portofio-react/precache-manifest.75d7c815e440ac5c2587ca94c469e4db.js",
+    "service-worker.js": "/portofio-react/service-worker.js",
+    "static/css/2.2e7eb412.chunk.css.map": "/portofio-react/static/css/2.2e7eb412.chunk.css.map",
+    "static/css/main.00b04eba.chunk.css.map": "/portofio-react/static/css/main.00b04eba.chunk.css.map",
+    "static/media/aboutImg.jpg": "/portofio-react/static/media/aboutImg.294676ea.jpg",
+    "static/media/all.css": "/portofio-react/static/media/fa-solid-900.ef3df984.eot",
+    "static/media/App.css": "/portofio-react/static/media/headerbg2.d5a2eedb.jpg",
+    "static/media/site1.png": "/portofio-react/static/media/site1.3e9ec0c5.png",
+    "static/media/site2.png": "/portofio-react/static/media/site2.962db334.png",
+    "static/media/site3.png": "/portofio-react/static/media/site3.0eb55202.png",
+    "static/media/site4.png": "/portofio-react/static/media/site4.ada9c99b.png",
+    "static/media/site5.png": "/portofio-react/static/media/site5.2774e8ff.png",
+    "static/media/site6.png": "/portofio-react/static/media/site6.356bf7dc.png"
+  }
+}
